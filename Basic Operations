@@ -1,0 +1,17 @@
+Basic Operators
+
+This section explains how to use basic operators in Python.
+
+Arithmetic Operators
+
+Just as any other programming languages, the addition, subtraction, multiplication, and division operators can be used with numbers
+
+number=1*8+6-2
+print("number")
+
+Try to predict what the answer will be. Does python follow order of operations?
+
+Another operator available is the modulo (%) operator, which returns the integer remainder of the division. dividend % divisor = remainder.
+
+test=11 % 3
+print("test")
